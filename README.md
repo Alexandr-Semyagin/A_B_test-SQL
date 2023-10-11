@@ -2,7 +2,7 @@
 ## Описание:
 |Название  |Основные этапы   |Стэк   |Статус   |
 |---|---|---|---|
-|Финальный проект <br /> Вариант 2 |Задание 1.<br /> A/B–тестирование <br /> <br /> Задание 2. SQL <br /><br /> Задание 3. Python|`Python`, `Pandas`, `NumPy`, `Matplotlib`, <br />`Seaborn`, `SciPy`, `Requests`, `Pingouin`, `SQL`|Проект завершен |
+|A/B test and SQL |Задание 1.<br /> A/B–тестирование <br /> <br /> Задание 2. SQL <br /><br /> Задание 3. Python|`Python`, `Pandas`, `NumPy`, `Matplotlib`, <br />`Seaborn`, `SciPy`, `Requests`, `Pingouin`, `SQL`|Проект завершен |
 
 
 ## Результаты:
